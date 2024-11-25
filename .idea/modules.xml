@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestExam.iml" filepath="$PROJECT_DIR$/TestExam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testexam_2_StudentList/Testexam_2_StudentList.iml" filepath="$PROJECT_DIR$/Testexam_2_StudentList/Testexam_2_StudentList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testexam_5/Testexam_5.iml" filepath="$PROJECT_DIR$/Testexam_5/Testexam_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testexam_7/Testexam_7.iml" filepath="$PROJECT_DIR$/Testexam_7/Testexam_7.iml" />
     </modules>
   </component>
 </project>
